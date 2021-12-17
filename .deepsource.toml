@@ -1,5 +1,8 @@
 version = 1
 
 [[analyzers]]
-name = "rust"
+name = "java"
 enabled = true
+
+  [analyzers.meta]
+  runtime_version = "11"
